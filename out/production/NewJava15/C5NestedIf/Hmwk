@@ -1,0 +1,56 @@
+Task1:
+       Create a variable isRaining and set it to true.
+       Create a variable isCold and set it to false.
+       Create an if statement that checks if isRaining is true. If it is,
+       print "Remember to bring an umbrella". If it isn't,
+       Add a  nested if statement inside the else part that checks if isCold is true.
+        If it is, print Also "bring a jacket".
+Task2:
+    Create a boolean variable isRaining and assign it a value of true or false.
+    create another boolean variable isSunny and assign it a value of true or false.
+    Check if isRaining is true using a simple if statement. If it is, print a message saying "It's raining outside". Otherwise, move to the next step.
+    If isRaining is not true,
+    Check if isSunny is true using a nested if statement. If it is, print a message saying "It's sunny outside".
+    Otherwise, print a message saying "It's neither raining nor sunny outside".
+Task3:
+    Create a boolean variable named isHungry and assign it a value of true or false.
+    If isHungry is true, check if it's morning or evening using a nested if statement.
+    If it's morning, print a message saying "You should eat breakfast to start your day right".
+    If it's evening, print a message saying "You should eat dinner to end your day on a good note".
+    If isHungry is false, print a message saying "You are not hungry, enjoy your day!"
+Task4:
+    Create a boolean variable named isWeekend and assign it a value of true or false.
+    If isWeekend is true, check if the weather is good using a nested if statement.
+    If it's good, print a message saying "You should plan an outdoor activity and enjoy your day".
+    If it's not good, print a message saying "You can still plan an indoor activity and have fun with your family and friends".
+    If isWeekend is false, print a message saying "You need to work hard during weekdays to enjoy your weekends".
+Task5:
+    Create a boolean variable named isMorning and assign it a value of true or false.
+    If isMorning is true, check if you have breakfast using a nested if statement.
+    If you have breakfast, print a message saying "You are ready to start your day".
+    If you don't have breakfast, print a message saying "You should eat something to start your day right".
+    If isMorning is false, print a message saying "Enjoy your day!".
+
+Task6:
+    Create a boolean variable named isVacation and assign it a value of true or false.
+    If isVacation is true, check if you have packed your bags using a nested if statement.
+    If you have packed your bags, print a message saying "You are ready for your trip".
+    If you haven't packed your bags, print a message saying "You should pack your bags before leaving".
+    If isVacation is false, print a message saying "Enjoy your day at home!".
+Task7
+    Create two int variables named num1 and num2 and assign them any integer values.
+    Check if num1 is greater than num2 using a simple if statement. If it is, print a message saying "num1 is greater than num2".
+    If it is not, use a nested if statement to check if num2 is greater than num1. If it is, print a message saying "num2 is greater than num1".
+    If neither of these conditions is true, print a message saying "num1 and num2 are equal".
+
+
+
+   Create a boolean variable named isVacation and bagPacked and assign them a value of true or false.
+    If isVacation is true, check if you have packed your bags using a nested if statement.
+    If you have packed your bags, print a message saying "You are ready for your trip".
+    If you haven't packed your bags, print a message saying "You should pack your bags before leaving".
+    If isVacation is false, print a message saying "Enjoy your day at home!"
+
+
+====================================================================
+come up with 3 tasks on your own where you think nested if conditions can be used write step by step description and then code for them

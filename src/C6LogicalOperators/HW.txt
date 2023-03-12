@@ -1,0 +1,49 @@
+Task1:
+    Declare three boolean variables, isHungry, isTired, and isStudying, and assign them any boolean values.
+    Write an if statement that checks if both isHungry and isTired are true, and print a message to the console indicating that the person needs to eat and sleep.
+    Write another if statement that checks if isStudying is false and either isHungry or isTired is true, and print a message to the console indicating that the
+    person should take a break.
+Task2:
+    Declare a double variable temperature and assign it any value between 0 and 100.
+    Write an if statement that checks if the temperature is between 32 and 70 degrees (inclusive), and print a message to the console indicating that
+    the weather is pleasant.
+    Write another if statement that checks if the temperature is either below 0 degrees or above 100 degrees, and print a message to the console indicating
+    that the weather is extreme.
+Task4:
+    Declare three variables, isWeekend, isHoliday, and temperature, and assign them boolean and integer values, respectively. Write an if statement
+    that checks whether it's either the weekend OR a holiday AND the temperature is greater than or equal to 80 degrees. If the condition is true,
+    print "It's a great day for a picnic" to the console. Otherwise, print "It's either not a good day for a picnic or not warm enough" to the console.
+Task5:
+    Create an integer variable named age and assign it a value between 0 and 120.
+    If age is less than 18, print a message saying "You are not old enough to vote yet".
+    If age is between 18 and 64, print a message saying "You are eligible to vote".
+    If age is greater than or equal to 65, print a message saying "You are eligible for senior discounts".
+
+Task6:
+    Create a double variable named temperature and assign it a value between -50 and 50.
+    If temperature is less than 0, print a message saying "It's freezing outside".
+    If temperature is between 0 and 20, print a message saying "It's chilly outside".
+    If temperature is between 20 and 30, print a message saying "It's comfortable outside".
+    If temperature is greater than 30, print a message saying "It's hot outside".
+
+
+
+=====================================================================================================
+Not step by step hard ones
+Task1:
+    Write a program for a movie theater that determines whether a customer qualifies for a discount based on
+    their age and whether they are a student or a senior. If the customer is either a student or a senior, and
+    their age is less than or equal to 18 or greater than or equal to 60, then they qualify for a discount.
+Task2:
+    Write a program for a weather app that recommends whether to wear a coat or not based on
+    the temperature and whether it is raining or not. If the temperature is less than or equal to 50 degrees
+    Fahrenheit or it is raining, then the app should recommend wearing a coat.
+Task3:
+    Write a program for a sports team that determines whether a player is eligible to play
+    in a game based on their age and whether they have completed a required training session.
+    If the player is at least 18 years old and has completed the training session, then they are
+    eligible to play
+Task4:
+    Write a program for a bank that determines whether a loan applicant is eligible based on their credit score and income.
+    If the applicant's credit score is greater than or equal to 700, or their income is greater than or equal to $50,000 per year,
+    then they are eligible for a loan

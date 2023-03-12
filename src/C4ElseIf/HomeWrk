@@ -1,0 +1,79 @@
+2)Simple Grade Calculator
+    Declare a variable score and assign it a value of 85.
+    Write an if statement that checks if the score variable is greater than or equal to 90.
+    If the condition is true, print "A" to the console.
+    Write an else if statement that checks if the score variable is greater than or equal to 80.
+    If the condition is true, print "B" to the console.
+    Write an else if statement that checks if the score variable is greater than or equal to 70.
+    If the condition is true, print "C" to the console.
+    Write an else if statement that checks if the score variable is greater than or equal to 60.
+    If the condition is true, print "D" to the console.
+    Write an else statement that prints "F" to the console if none of the above conditions are true
+1)Simple Calculator:
+    Declare two variables num1 and num2 and assign them values of 5 and 10 respectively.
+    Declare a third variable operator and assign it the value "+".
+    Write an if statement that checks if the operator variable is equal to "+".
+    If the condition is true, print the sum of num1 and num2 to the console.
+    Write an else if statement that checks if the operator variable is equal to "-".
+    If the condition is true, print the difference of num1 and num2 to the console.
+    Write an else if statement that checks if the operator variable is equal to "*".
+    If the condition is true, print the product of num1 and num2 to the console.
+    Write an else if statement that checks if the operator variable is equal to "/".
+    If the condition is true, print the quotient of num1 and num2 to the console.
+    Write an else statement that prints "Invalid operator" to the console if none of the above conditions are true.
+3)Simple BMI Calculator:
+    Declare two variables weight and height and assign them values of 70 and 1.75 respectively.
+    Calculate the BMI by dividing the weight by the square of the height and assign it to a new variable bmi.
+    Write an if statement that checks if the bmi variable is less than 18.5.
+    If the condition is true, print "Underweight" to the console.
+    Write an else if statement that checks if the bmi variable is less than 25.
+    If the condition is true, print "Normal weight" to the console.
+    Write an else if statement that checks if the bmi variable is less than 30.
+    If the condition is true, print "Overweight" to the console.
+    Write an else statement that prints "Obese" to the console if the bmi variable is greater than or equal to 30
+4)Task:
+  Write a Java program that prints the name of the day of the week based on a given integer value.
+
+  Step 1: Declare an integer variable named dayOfWeek.
+
+  Step 2: Assign a value of 1 to the dayOfWeek variable.
+
+  Step 3: Write an if statement that checks if the value of dayOfWeek is 1.
+
+  Step 4: Inside the if statement, use the System.out.println() method to print the string "Monday".
+
+  Step 5: Write an else if statement that checks if the value of dayOfWeek is 2.
+
+  Step 6: Inside the else if statement, use the System.out.println() method to print the string "Tuesday".
+
+  Step 7: Repeat steps 5 and 6 for the remaining days of the week (Wednesday, Thursday, Friday, Saturday, and Sunday), using the appropriate integer values and string names.
+
+  Step 8: Write an else statement that executes if none of the previous conditions are true.
+
+  Step 9: Inside the else statement, use the System.out.println() method to print the string "Invalid day of week".
+
+  Step 10: Save and run the program to see the output.
+
+5) Task: Write a Java program that prints the name of the month based on a given integer value.
+
+   Step 1: Declare an integer variable named month.
+
+   Step 2: Assign a value of 1 to the month variable.
+
+   Step 3: Write an if statement that checks if the value of month is 1.
+
+   Step 4: Inside the if statement, use the System.out.println() method to print the string "January".
+
+   Step 5: Write an else if statement that checks if the value of month is 2.
+
+   Step 6: Inside the else if statement, use the System.out.println() method to print the string "February".
+
+   Step 7: Repeat steps 5 and 6 for the remaining months of the year (March through December), using the appropriate integer values and string names.
+
+   Step 8: Write an else statement that executes if none of the previous conditions are true.
+
+   Step 9: Inside the else statement, use the System.out.println() method to print the string "Invalid month".
+
+   Step 10: Save and run the program to see the output.
+
+

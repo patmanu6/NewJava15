@@ -1,0 +1,22 @@
+1) Create a variable height that stores a person's height in centimeters then write an if else condition that prints whether
+the person is tall (height greater than or equal to 180 cm it should print tall otherwise print not tall) or not
+2) Create a variable that stores a person's grade as  prints whether the person passed or
+failed the exam (assuming passing grade is 60 or greater)
+3) Declare a String variable called "color" and assign it a value.
+   Use if conditions to print a message based on the value of "color".
+   If the value of "color" is "red", print "Your favorite color is red".
+   If the value is "blue", print "Your favorite color is blue".
+   If the value is "green", print "Your favorite color is green".
+4) Declare a String variable called "drink" and assign it a value.
+   Use if conditions to print a message based on the value of "drink".
+   If the value of "drink" is "juice", print "Your favorite drink is juice".
+   If the value is "milk", print "Your favorite drink is milk".
+   If the value is "soda", print "Your favorite drink is soda".
+   If the value is none of these options, print "Invalid drink choice".
+5) Create a variable age and store some value in it based on this value write if conditions that prints below message
+    if age is greater than 60 print "you are old"
+    if age is greater than 20 "you are an adult"
+    if age is greater than 13 "you are a teenager"
+    if age is greater than 3 "you are a kid"
+    if age is greater than 0 "you are a baby"
+    if age is greater than "invalid age"

@@ -1,0 +1,52 @@
+1)Declare two variables firstName and lastName of type String and initialize them to your
+first and last name. Use string concatenation to create a new variable fullName that contains
+your full name. Print the value of fullName.
+2)Declare two variables num1 and num2 of type int and initialize them to values of your choice.
+Add the two numbers together and store the result in a new variable sum. Print the value of sum.
+3)Declare two variables num1 and num2 of type int and initialize them to values of your choice.
+Subtract num2 from num1 and store the result in a new variable difference. Print the value of
+difference.
+4)Declare two variables num1 and num2 of type int and initialize them to values of your choice.
+Multiply the two numbers together and store the result in a new variable product. Print the value
+of product.
+5)Declare two variables num1 and num2 of type int and initialize them to values of your choice.
+Divide num1 by num2 and store the result in a new variable quotient. Print the value of quotient.
+
+6)Declare two variables firstName and lastName of type String and initialize them to your first and
+last name. Use string concatenation to create a new variable greeting that says "Hello, [firstName]
+[lastName]!". Print the value of greeting.
+7)Declare two variables num1 and num2 of type int and initialize them to values of your choice.
+Use modulus operator to find the remainder when num1 is divided by num2 and store the result in a
+new variable remainder. Print the value of remainder.
+8)Declare two variables num1 and num2 of type int and initialize them to values of your choice.
+Use the increment operator to increase the value of num1 by 1, and the decrement operator to decrease
+the value of num2 by 1. Print the new values of num1 and num2.
+9)Declare two variables num1 and num2 of type double and initialize them to values of your choice.
+Use the Math class to calculate the square root of num1 and store the result in a new variable sqrt.
+Use the Math class to calculate the power of num1 to num2 and store the result in a new variable power.
+Print the values of sqrt and power.
+10)Declare three variables num1, num2, and num3 of type int and initialize them to values of your
+choice. Use parentheses to specify the order of operations, and perform the following calculation:
+num1 + num2 * num3. Store the result in a new variable result and print its value.
+
+==========================================
+Task1:
+create an int variable call is age store 16 in it
+then write an if condition which checks if age is greater than 18 print
+"you are allowed to vote" otherwise print you are too young to vote
+Task2:
+write a program in which create a variable call it food store pizza in it.
+then write an if condition which checks if food variable contains pizza it
+prints "i love pizza" otherwise it prints "i haven't tried that food"
+
+Task3:
+write a java program that checks if a variable contains letter 'M' it should
+print "male" otherwise it should print "female"
+
+Task 4 :
+Write a Java program that declares two integer variables,
+ assigns them values, and prints the larger value.
+
+Task5:
+    Write a Java program that declares a boolean variable and
+     prints "yes" if the value is true, and "no" if the value is false.

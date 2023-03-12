@@ -1,0 +1,11 @@
+Logical operators allow us to combine multiple conditions
+There are three logical operators in java
+1)AND operator (&&)
+2) OR ||
+3) NOT !
+AND Operator:
+    Execute the code inside if part only if all the conditions are
+    true if any of the condition fails it will execute the else part
+    if it is present
+OR ||:
+    Execute the if part as soon as it see one condition to be true
