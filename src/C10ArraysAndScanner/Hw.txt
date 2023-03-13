@@ -1,0 +1,20 @@
+Task1:
+    1)Create an empty array of integers having size 5
+    2) use a for loop to store number 10 on all the indexes
+    3) write a separate loop to print all the elements from the array
+Task2:
+    1)Create an empty array of integers having size 5
+    2) Write a for loop that runs 5 times
+    3) Inside the loop ask user for a number, store that number in the array,
+    repeat this process 5 times
+    3) write a separate loop to print all the elements from the array
+Expected output:
+    Please Enter a number
+    10
+    Please Enter a number
+    30
+    Please Enter a number
+    60
+    Please Enter a number
+    90
+    [10, 30, 60, 90]

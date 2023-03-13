@@ -11,11 +11,7 @@ public class Task8 {
         int age=17;
         boolean isTraining=true;
 
-        if(age>=18)if(isTraining){
-            System.out.println("Eligible to play");
-        }else {
-            System.out.println("You have to meet the requirement");
-        }
+        //if(age>=18)
 
     }
 }

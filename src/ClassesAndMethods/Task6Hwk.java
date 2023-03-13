@@ -7,8 +7,9 @@ package ClassesAndMethods;
     Inside the method, use the modulo operator to check if the number is even
 
  */
-public class Task6Hwk {
-    int isEven(int num) {
+/*public class Task6Hwk {
+
+    int isEven(boolean num) {
         if (num % 2 == 0) {
         return num;
         }else {
@@ -21,4 +22,4 @@ public class Task6Hwk {
         System.out.println(num);
 
     }
-}
+}*/

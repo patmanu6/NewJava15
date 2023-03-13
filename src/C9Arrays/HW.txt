@@ -1,0 +1,85 @@
+Task1
+Declare an integer array and initialize it with values.
+Create a for loop that will iterate over each element in the array.
+Within the for loop, use the current index to access the current element's value.
+Print out a message that displays the index and value of the current element.
+After the message has been printed, the for loop will move on to the next element in the array and repeat the process until all elements have been printed
+
+
+Task 2: Find the sum of all elements in an array of integers
+
+Create an array of integers with some values using method two of creating arrays
+Initialize a variable to hold the sum to 0
+Use a for loop to iterate over all elements in the array
+Add each element to the sum variable
+Print out the total sum of all elements
+
+Task 3: Print out all even numbers in an array of integers
+
+Create an array of integers with some values using method two of creating arrays
+Use a for-each loop to iterate over all elements in the array
+Use an if statement to check if the element is even
+If the element is even, print it out
+
+Task 4: Calculate the average of all elements in an array of doubles
+
+Create an array of doubles with some values
+Initialize a variable to hold the sum to 0.0
+Use a for loop to iterate over all elements in the array
+Add each element to the sum variable
+Divide the sum by the length of the array to calculate the average
+Print out the average
+================================================================
+Not Step by step
+Task5
+Create a double array with 5 elements and fill it with random decimal
+values between 1.0 and 5.0. Use a for loop to iterate over the array and
+print out all the values that are greater than 3.0.
+Task6
+Create an integer array with 8 elements and fill it with random
+values between 1 and 10. Use a for loop to iterate over the array and
+count how many times the value 5 appears.
+Task7
+Create an integer array with 7 elements and fill it with random values
+between 1 and 10. Use a while loop to iterate over the array and print out
+all the odd numbers.
+Task8
+Create an integer array with 8 elements and fill it with random values
+between 1 and 50. Use a for loop to iterate over the array and print out all the values that are less than 25
+Task9:
+Create an integer array with 10 elements and fill it with random values
+between 1 and 100. Use a for loop to iterate over the array and find the
+sum of all the even numbers.
+Task10:
+Create an integer array with 8 elements and fill it with random
+values between 1 and 10. Use a for loop to iterate over the array and
+find the index of the first occurrence of the value 5.
+Task11:
+Create an integer array with 6 elements and fill it
+with random values between 1 and 10. Use a for loop to iterate over
+the array and find the index of the last occurrence of the value 5.
+Task11:
+Create an integer array with 7 elements and fill it with random
+values between 1 and 20. Use a while loop to iterate over the array
+and print out all the values that are odd and greater than 10.
+Task12:
+Create an array of size 5
+use scanner class to take 5 numbers from user and store them inside above array
+print all the elements from above array using a loop
+task13:
+create a variable of type int and call it size
+use scanner to ask the user for the size of array and store that
+in above variable
+create an empty array of that size
+use scanner again to fill that array
+use a loop to print all the elements from above array
+=====================================
+tough ones not easy
+Task14
+Create an integer array with 10 elements and fill it with random values
+between 1 and 20. Use a for loop to iterate over the array and find the
+largest value.
+Task15
+Create a double array with 6 elements and fill it with random decimal
+values between 1.0 and 5.0. Use a for loop to iterate over the array and
+find the smallest value

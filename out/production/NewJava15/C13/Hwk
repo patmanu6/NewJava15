@@ -1,0 +1,57 @@
+Task1:
+    Create a program that prompts the user to enter a string and then prints out
+    the length of the string. To do this, use the length() method of the String class.
+Task2:
+    Create a program that prompts the user to enter two strings and then concatenates
+    them together using the plus operator method of the String class. Print out the concatenated string.
+Task3:
+    Create a program that prompts the user to enter a string and then converts it to
+    uppercase using the toUpperCase() method of the String class. Print out the uppercase string.
+Task4:
+    Create a program that prompts the user to enter a string and then converts it to lowercase
+    using the toLowerCase() method of the String class. Print out the lowercase string.
+Task5:
+    Create a program that prompts the user to enter a string and then checks if it contains
+    a specific substring using the contains() method of the String class. If the string contains
+    the substring, print out a message saying so. If it does not, print out a message saying that
+    the substring was not found.
+Task6:
+    Create a program that prompts the user to enter a string and then checks if it starts with
+    a specific prefix using the startsWith() method of the String class. If the string starts
+    with the prefix, print out a message saying so. If it does not, print out a message saying that
+    the prefix was not found.
+Task7:
+    Create a program that prompts the user to enter a string and then checks if it ends with a
+    specific suffix using the endsWith() method of the String class. If the string ends with the
+    suffix, print out a message saying so. If it does not, print out a message saying that the suffix
+    was not found.
+
+Task8:
+     create a variable call it userName and store some String in it
+     check userName variable with if else conditions for below
+     if username is less than 8 characters print "UserName must be 8 characters"
+     if username is more than 16 print "Username can't be more than 16 chars"
+     if username contains the word "password " in it print "username can't contain password"
+     else print "userName created successfully "
+Task9:
+    create a String str and store "Java is not easy"
+    count how many times the letter a has appeared in above String.
+Task10:
+    Write a Java program that takes a string as input and prints the first character of the string
+    using the charAt method.
+Task11
+    Write a Java program that takes a string as input and prints the index of the first occurrence of
+    the letter 'e' in the string using the indexOf method.
+Task12:
+    Write a Java program that takes a string as input and reverses the string using the charAt
+    method in a loop.
+=================================
+Tricky ones
+Task1:
+    Write a Java program that takes a string as input and checks if the string is a palindrome
+    (reads the same forwards and backwards) using the charAt method and a loop.
+
+Task2:
+    Write a Java program that takes a string as input and removes all occurrences of the letter 's' in the string using the replace method with an empty string.
+Task3
+    Write a Java program that takes a string as input and replaces all occurrences of the letter 'a' with the letter 'e' using the replace method.
