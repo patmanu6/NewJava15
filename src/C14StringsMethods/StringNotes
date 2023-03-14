@@ -1,0 +1,13 @@
+String class:
+    String is the most widely used class in java. It has a lot of methods
+    which can help us process String data. For example
+        1)equals => is used to compare two Strings
+        2)toLowerCase => converts Strings to lowercase
+        3)EqualsIgnoreCase => compares two Strings ignoring case
+        4)toUpperCase => convert Strings to uppercase
+        5)Contains => checks if a word or character is present in a String
+        6)StartsWith => checks if a String starts with specific word or char
+        7)EndsWith  => checks if a String ends with specific word or char
+        8)indexOf => returns the index of a char
+        9)charAt => returns the char at specified index
+        10)trims => used to remove spaces before and after the String

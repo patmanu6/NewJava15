@@ -1,0 +1,64 @@
+Task:toCharArray()
+    Declare a string variable and assign it a value.
+    Call the toCharArray() method on the string variable.
+    Store the result in a character array variable.
+    Iterate through the character array using a loop and print each character.
+Task:split()
+    Declare a string variable and assign it a value that contains one or more words separated by spaces.
+    Call the split() method on the string variable and pass a space character as the argument.
+    Store the result in a string array variable.
+    Iterate through the string array using a loop and print each element.
+Task:Declare a string variable named str and assign it the value "Java is a programming language".
+     Call the replace() method on the str variable and pass two arguments: "Java" as the substring to be replaced, and "Python" as the replacement string. Store the result in a new string variable named newStr.
+     Print the original str string with the message "Original string: " using the System.out.println() method.
+     Print the new newStr string with the message "New string: " using the System.out.println() method
+====================
+Tricky ones:
+Task1:
+    Declare a string variable named sentence and assign it the value "The quick brown fox jumps over the lazy dog.".
+    Call the split() method on the sentence variable and pass a space " " as the delimiter to split the sentence into an array of words. Store the result in a string array variable named words.
+    Declare a string variable named reversedSentence and initialize it to an empty string "".
+    Iterate through the words array in reverse order using a for loop that starts at the last index (words.length - 1) and ends at the first index (0).
+    For each word in the words array, add it to the reversedSentence variable with a space " " appended to it.
+    Print the original sentence string with the message "Original sentence: " using the System.out.println() method.
+    Print the reversed reversedSentence string with the message "Reversed sentence: " using the System.out.println() method. Use the trim() method to remove the trailing space at the end of the reversed sentence
+Expected output:
+Original sentence: The quick brown fox jumps over the lazy dog.
+Reversed sentence: dog. lazy the over jumps fox brown quick The
+Task2:
+    Declare a string variable named str and assign it the value "She sells seashells by the seashore.".
+    Call the toCharArray() method on the str variable to convert it to an array of characters. Store the result in a char array variable named charArray.
+    Declare a string variable named replacedStr and initialize it to an empty string "".
+    Iterate through the charArray array using a for-each loop.
+    For each character c in the charArray array, check if it is the letter "s" or "S".
+    If c is "s" or "S", append a dollar sign "$" to the replacedStr variable.
+    If c is not "s" or "S", append the original character c to the replacedStr variable.
+    Print the original str string with the message "Original string: " using the System.out.println() method.
+    Print the replacedStr string with the message "Replaced string: " using the System.out.println() method.
+Output:
+    Original string: She sells seashells by the seashore.
+    Replaced string: $he $ell$ $ea$hell$ by the $ea$hore.
+Task3:
+    Declare a string variable named str and assign it the value "The quick brown fox jumps over the lazy dog.".
+    Call the split() method on the str variable and pass a space " " as the delimiter to split the string into an array of words. Store the result in a string array variable named words.
+    Declare a string variable named replacedStr and initialize it to an empty string "".
+    Iterate through the words array using a for-each loop.
+    For each word in the words array, check if its length is even or odd.
+    If the length of word is even, convert it to uppercase letters using the toUpperCase() method and append it to the replacedStr variable with a space " " appended to it.
+    If the length of word is odd, convert it to lowercase letters using the toLowerCase() method and append it to the replacedStr variable with a space " " appended to it.
+    Print the original str string with the message "Original string: " using the System.out.println() method.
+    Print the replacedStr string with the message "Replaced string: " using the System.out.println() method. Use the trim() method to remove the trailing space at the end of the replaced string.
+Output:
+    Original string: The quick brown fox jumps over the lazy dog.
+    Replaced string: the QUICK brown FOX jumps OVER the LAZY dog.
+Task4:
+    Declare a string variable named str and assign it the value "Hello, how are you?".
+    Call the split() method on the str variable and pass a space " " as the delimiter to split the string into an array of words. Store the result in a string array variable named words.
+    Declare a string variable named reversedStr and initialize it to an empty string "".
+    Iterate through the words array using a for loop in reverse order.
+    Starting from the last index of the words array, append each word to the reversedStr variable with a space " " appended to it.
+    Print the original str string with the message "Original string: " using the System.out.println() method.
+    Print the reversedStr string with the message "Reversed string: " using the System.out.println() method. Use the trim() method to remove the trailing space at the end of the reversed string.
+Output:
+    Original string: Hello, how are you?
+    Reversed string: you? are how Hello,

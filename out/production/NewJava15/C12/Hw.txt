@@ -1,0 +1,66 @@
+Task1:
+    1)Define a method with the name add that takes two
+     integer parameters: int num1 and int num2.
+    2)Inside the method, add the two numbers and store the result in a new variable.
+    3)Return the result using the return keyword.
+Task2:
+    A method that takes no parameters and prints a message to the console:
+    1)Define a method with the name printMessage and the
+    return type void, since it doesn't return anything.
+    2)Inside the method, use the System.out.println()
+    method to print a message to the console.
+Task3:
+    A method that takes a single parameter and doubles it:
+    1)Define a method with the name doubleNumber that takes an integer parameter: int number.
+    Inside the method, multiply the number parameter by 2 and return the result
+    using the return keyword.
+Task4:
+    A method that takes two numbers and returns the larger number:
+    1)Define a method with the name max that takes two integer parameters: int a and int b.
+    2)Inside the method, use an if else operator to return the larger number of the two parameters.
+Task5:
+    A method that takes an array of integers and returns the sum of all the numbers in the array:
+    1)Define a method with the name sum that takes an integer array parameter: int[] arr.
+    2)Inside the method, initialize a variable sum to 0.
+    3)Use a loop to add up each element of the array to the sum variable.
+    4)Return the sum variable using the return keyword.
+
+Task6:
+    A method that takes an integer and returns true if the number is even, false if it is odd:
+    Define a method with the name isEven that takes an integer parameter: int number.
+    Inside the method, use the modulo operator to check if the number is even
+Task7:
+    A method that takes an array of strings and returns the concatenated string:
+    1)Define a method with the name concatenate that takes a string array parameter: String[] arr.
+    2)Inside the method, initialize a variable result to an empty string.
+    3)Use a loop to concatenate each element of the array to the result variable.
+    4)Return the result variable using the return keyword.
+Task8:
+    A method that takes an array of integers and returns the sum of all the even numbers in the array:
+    1)Define a method with the name sumEven that takes an integer array parameter: int[] arr.
+    2)Inside the method, initialize a variable sum to 0.
+    3)Use a loop to iterate through the elements of the array and add the value of each even element to sum.
+    4)Return the value of sum.
+
+===========================
+Difficulty level Medium:
+    Task1:
+    A method that takes a string and a character, and counts the number of occurrences of that character in the string:
+    1)Define a method with the name countChar that takes two parameters: a string parameter
+    str and a character parameter ch.
+    Initialize a variable count to 0.
+    2)Use a loop to iterate through each character of the string,
+    and check if it's equal to the ch parameter. If it is, increment the count variable.
+    3)Return the count variable using the return keyword.
+Task2:
+    A method that takes an array of integers and returns the largest number:
+    1)Define a method with the name findLargest that takes an integer array parameter: int[] numbers.
+    2)Inside the method, initialize a variable largest to the first element of the array.
+    3)Use a loop to compare each element of the array with the largest variable, and update it if the current element is larger.
+    4)Return the largest variable using the return keyword.
+Task3:
+    A method that takes two arrays of integers and returns the sum of the elements at the same index in each array:
+    1)Define a method with the name sumArrays that takes two integer array parameters: int[] arr1 and int[] arr2.
+    2)Inside the method, initialize a variable sum to 0.
+    3)Use a loop to iterate through the elements of the arrays and add the value of each pair of elements to sum.
+    4)Return the value of sum

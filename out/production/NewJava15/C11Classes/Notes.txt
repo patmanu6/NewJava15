@@ -1,0 +1,32 @@
+In programming class is a logical entity that we use to organize our code.
+we can put methods in a class we can also put attributes or in other words we can have some
+variables as well if we want to store some data as well.
+how do we organize:
+Lets there are 15 features in our program that we want to build for example a shopping website
+Users: for example Admin Customer
+    Can login logout they can have usernames password.
+A class to manage payments
+a class to manage carts
+User:
+    Name
+    Address
+    mobileNumber
+    Card Number
+    emails
+    password
+    login()
+    logout()
+    addItemsTo()
+Card:
+    Card Number
+    name on the card
+    balance
+    CVS code
+    Type
+    Expiry dat
+=====================
+The Biggest things that we can achieve from a class.
+    1)We can use a class to represent an entity from real life a class can act as a design guide or template
+    that we can use and create real life objects inside computers.
+    2) A class helps us organize our code we can put similar types of methods inside a class and
+    then end users can create objects from the classes and can start using those methods.
