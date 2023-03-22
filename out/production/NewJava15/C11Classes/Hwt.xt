@@ -1,0 +1,62 @@
+Task1:
+     Create a method which should return an int
+     Name of the method should be "add"
+     Parameters to the methods should be an array of ints
+     Inside the body of the method you should write a loop
+    that adds all the elements from the array and return the results
+    Call this method and test it
+Task 2:
+
+    Create a method which should return a boolean
+    Name of the method should be "isPalindrome"
+    Parameters to the method should be a string
+    Inside the body of the method you should write a loop that checks if the string is a palindrome or not, and return the result.
+    Call this method and test it
+Task 3:
+
+    Create a method which should return a string
+    Name of the method should be "reverseString"
+    Parameters to the method should be a string
+    Inside the body of the method you should write a loop that reverses the string and return the reversed string.
+    Call this method and test it
+Task 4:
+
+    Create a method which should return an array of ints
+    Name of the method should be "getEvenNumbers"
+    Parameters to the method should be an array of ints
+    Inside the body of the method you should write a loop that gets all the even numbers from the array and return an array containing only the even numbers.
+    Call this method and test it
+Task 5:
+
+    Create a method which should return a double
+    Name of the method should be "average"
+    Parameters to the method should be an array of doubles
+    Inside the body of the method you should write a loop that calculates the average of all the elements in the array and return the result.
+    Call this method and test it
+
+======================================================
+Not that straight-forward
+Task 1:
+Create a method that returns a string and returns a greeting message.
+Call this method and test it
+
+Task 2:
+Create a method that returns an int and takes two int parameters to add them together.
+Call this method and test it
+
+Task 3:
+Create a method that returns a boolean and takes an int parameter to check if it's odd or even.
+Call this method and test it
+
+Task 4:
+Create a method that returns an int and takes two int parameters to find and return the maximum of the two.
+Call this method and test it
+
+
+
+
+
+
+
+
+

@@ -16,7 +16,7 @@ public class Examples2 {
         System.out.println(numbers[2]);
         System.out.println(numbers[3]);
         System.out.println("*************");
-        // gives us the number of elements in the array
+        // gives us the number of elements in the array. remember access element in array by index.
         System.out.println(numbers.length);
         for (int i = 0; i <numbers.length; i++) {
             System.out.println(numbers[i]);

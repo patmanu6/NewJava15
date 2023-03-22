@@ -11,5 +11,14 @@ public class Examples4 {
             num++;
         }
 
+ int [] values={20,30,10};
+        int k=0;
+        while (k<values.length){
+            if(values[1]==values[k]){
+                System.out.println(values[k]);
+            }
+        }
+
+        }
     }
-}
+

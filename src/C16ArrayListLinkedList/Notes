@@ -1,0 +1,4 @@
+ArrayLists are dynamic in nature which means they can adjust their indexes at run time
+when we try to remove elements from an arrayList it can shift its indexes and because of that
+we might skip some elements and may get incorrect output. To avoid these issues we use removeIf
+method.

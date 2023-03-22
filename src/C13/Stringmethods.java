@@ -25,7 +25,16 @@ public class Stringmethods {
         }else{
             System.out.println("Password created succesfullly");
         }
+String user="Sahikddidndhdnddjdndnd";
+        int newUser=user.length();
+        int numb=8;
+        System.out.println(newUser);
 
+        if(newUser<=numb && newUser>=numb){
+            System.out.println("User pwd is correct");
+        }else {
+            System.out.println("user pwd is incorrect");
+        }
 
     }
 }

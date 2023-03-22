@@ -1,0 +1,13 @@
+Data Structures:
+    In java Data structures are classes which help us store and manipulate data
+    easily.
+Variables:
+    Are good to store a single value.
+Array:
+    Arrays are good for storing more than one value of same type.
+Issues with arrays:
+    1)They are fixed in the size.
+    2) They do not have built-in(ready-made) methods
+ArrayList:
+    1)Arraylists are not fixed in size. They can grow and shrink
+    at run time automatically.

@@ -11,7 +11,17 @@ public class Examples3 {
             System.out.println(numbers[num]);
             num++;
         }
+        System.out.println();
 
+int [] values={20,30,40};
+        //print out values in array using while loop.
+
+        int k=0;
+        while (k< values.length){
+            if(values[1]==values[k])
+            System.out.println(values[k]);
+            k++;
+        }
 
     }
 }

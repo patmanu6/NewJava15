@@ -8,6 +8,10 @@ public class StringMethodDemo8 {
 
         System.out.println(newName);
 
+        String sentence="   I am tired";
+        String New=sentence.trim();
+        System.out.println(New);
+
 
 
 

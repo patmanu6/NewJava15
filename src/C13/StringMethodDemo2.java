@@ -14,6 +14,12 @@ public class StringMethodDemo2 {
 
         StringMethodDemo2 d=new StringMethodDemo2();
         d.print();
+
+        String books="The book is on the shelf";
+        int length=books.length();
+        System.out.println(length);
+
+        System.out.println(books.charAt(7));
     }
 
     /**
