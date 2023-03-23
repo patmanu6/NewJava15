@@ -1,4 +1,36 @@
 ArrayLists are dynamic in nature which means they can adjust their indexes at run time
 when we try to remove elements from an arrayList it can shift its indexes and because of that
 we might skip some elements and may get incorrect output. To avoid these issues we use removeIf
+How to use lambda expressions in removeIf method
+we create any variable-> condition based on that variable
+========================================================
+Why use ArrayList:
+    1)Not fixed in size.
+    2)It has methods.
+========================================================
+Collections framework:
+    Collection is a collection of many classes which allows us to store and
+    process data easily. Because all the classes in collection framework are
+    dynamic in nature and have built-iin methods.
+    1)ArrayList 2) LinkedList 3) HashSet 4) LinkedHashSet 5) TreeSet
+Wrapper class:
+    All the classes in collections framework can't use primitive data types like int to
+    solve this problem Java developers created wrapper classes for all the primitive
+    classes that we have in java.
+ArrayList vs LinkedList:
+    All the methods which are present in ArrayList also present in LinkedList But because of underlying
+    implementations they work very differently.
+ArrayList:
+    UpSide: Arraylist is very good when it comes to access(using get() method) the data.
+    DownSide: if we have to remove or add a new element in-between or in the start computer will
+    have to do a lot of shifting and re-indexing.
+LinkedList:
+    Upside: Removing and adding the data in-between is very fast.
+    DownSide: Accessing the data(get()) is very slow as compared to ArrayList.
+Q1:
+    90% of the time I will be calling get method and 10% of the times i will be calling remove
+    method which class i should use?
+    ArrayList class
+
+
 method.
