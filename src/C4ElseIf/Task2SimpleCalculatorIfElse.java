@@ -13,7 +13,7 @@ Simple Calculator:
     If the condition is true, print the quotient of num1 and num2 to the console.
     Write an else statement that prints "Invalid operator" to the console if none of the above conditions are true.
  */
-public class Task2 {
+public class Task2SimpleCalculatorIfElse {
     public static void main(String[] args) {
         int num1=5;
         int num2=10;

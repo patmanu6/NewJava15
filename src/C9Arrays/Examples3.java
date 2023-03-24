@@ -6,6 +6,7 @@ public class Examples3 {
         int [] numbers={10,20,45,67};
         // print all the elements from this array with the help of a
         // while loop
+        //Array use the "Length Method" always to get you Size before iterations
         int num=0;
         while (num<numbers.length){
             System.out.println(numbers[num]);

@@ -10,7 +10,7 @@ package C4ElseIf;
     If the condition is true, print "Overweight" to the console.
     Write an else statement that prints "Obese" to the console if the bmi variable is greater than or equal to 30
  */
-public class Task3 {
+public class Task3BMI {
     public static void main(String[] args) {
         int weight=70;
         double height=1.75;

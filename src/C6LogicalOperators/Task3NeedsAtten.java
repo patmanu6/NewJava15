@@ -8,13 +8,17 @@ public class Task3NeedsAtten {
     public static void main(String[] args) {
         boolean isWeekend=true;
         boolean isHoliday=false;
-        int temp=15;
+        int temp=40;
 
         if(isWeekend||isHoliday&&temp>80){
             System.out.println("It is a great day for picnic");
 
         }else {
             System.out.println("Its not a good day for picnic");
+        }if(temp<30 && isWeekend){
+            System.out.println("You can have fun");
+        }else {
+            System.out.println("Its a bit chilli outside");
         }
 
     }

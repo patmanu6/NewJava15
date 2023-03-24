@@ -1,8 +1,6 @@
 package C15;
 
-import java.util.ArrayList;
-
-public class Arraylist {
+public class ArrayList {
     public static void main(String[] args) {
   /*
         Creating the object of ArrayList class
@@ -17,7 +15,7 @@ public class Arraylist {
         short=>Short
         long=> Long
          */
-        ArrayList<Integer> obj=new ArrayList<>();
+        java.util.ArrayList<Integer> obj=new java.util.ArrayList<>();
         obj.add(10);
         obj.add(20);
         obj.add(40);

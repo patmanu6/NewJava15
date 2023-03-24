@@ -1,10 +1,10 @@
 package C9Arrays;
 
-public class Examples2 {
+public class Examples2MasterTheConcept {
     public static void main(String[] args) {
           /*
         if else
-        loops
+        loops     These right here get you the Job. Master it like no tommorow.
         arrays
         classes and method
          */

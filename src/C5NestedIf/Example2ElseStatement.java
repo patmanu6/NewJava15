@@ -1,6 +1,6 @@
 package C5NestedIf;
 
-public class Example2 {
+public class Example2ElseStatement {
     public static void main(String[] args) {
 
         int age=19;

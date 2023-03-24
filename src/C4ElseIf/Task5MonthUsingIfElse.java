@@ -14,7 +14,7 @@ package C4ElseIf;
    Step 10: Save and run the program to see the output.
 
  */
-public class Task5 {
+public class Task5MonthUsingIfElse {
     public static void main(String[] args) {
         int month=12;
 

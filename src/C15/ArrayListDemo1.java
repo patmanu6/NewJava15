@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ArrayListDemo1 {
     public static void main(String[] args) {
-
+//ArrayList uses .get to get inedex of Arraylist and has lots of methods that help you to manipulate data
         ArrayList<String> names=new ArrayList<>();
         names.add("Patrick");
         names.add("batyr");

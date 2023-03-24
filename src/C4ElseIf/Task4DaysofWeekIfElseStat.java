@@ -12,7 +12,7 @@ package C4ElseIf;
   Step 8: Write an else statement that executes if none of the previous conditions are true.
   Step 9: Inside the else statement, use the System.out.println() method to print the string "Invalid day of week".  Step 10: Save and run the program to see the output.
  */
-public class Task4 {
+public class Task4DaysofWeekIfElseStat {
     public static void main(String[] args) {
         int dayOfWeek = 1;
 

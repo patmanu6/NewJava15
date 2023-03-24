@@ -1,0 +1,20 @@
+Task1:
+    Create a HashMap object called 'phoneNumbers' that stores a String as key and a Long as value.
+    Add the following key-value pairs to the 'phoneNumbers' HashMap using the put() method:
+     "John" -> 1234567890, "Mary" -> 2345678901, "Tom" -> 3456789012.
+    Print the phone number associated with "Mary" to the console.
+Task2:
+    Create a map to store the grocery and their price
+    "Eggs"-> 5, "Apple"-> 20 "Bread" -> 15
+    print only those items which contain the letter a
+    print only those items which are more than 5$
+Task3:
+    Create a HashMap object called 'bookPrices' that stores a String as key and a Double as value.
+    Add the following key-value pairs to the 'bookPrices' HashMap using the put() method: "Java Programming" -> 45.99, "Data Structures" -> 32.50, "Algorithms" -> 50.00, "Python Basics" -> 20.00.
+    Print the names of all the books in the 'bookPrices' HashMap that have a price greater than 40.00.
+    Print the names of all the books in the 'bookPrices' HashMap that contain the letter 'o'.
+Task4:
+    Create a TreeMap object called 'movieRatings' that stores a String as key and an Integer as value.
+    Add the following key-value pairs to the 'movieRatings' TreeMap using the put() method: "The Godfather" -> 9, "Star Wars" -> 8, "The Shawshank Redemption" -> 10, "Forrest Gump" -> 7.
+    Print the names of all the movies in the 'movieRatings' TreeMap that have a rating greater than 8.
+    Print the rating of the movie "The Shawshank Redemption" from the 'movieRatings' TreeMap.
